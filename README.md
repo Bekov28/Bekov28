@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Bekov28
+- 👋 Hi, I’m @bekov28
 - 👀 I’m interested in Full Stack Development (Front-end, Back-end and DevOps)
 - 🌱 I’m currently learning Front-end development
 - 💞️ I’m looking to collaborate on Front-end 
